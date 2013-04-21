@@ -1,5 +1,5 @@
-Theme for CM10/CM10.1/AOKP-ANDROID 4.2.1
+Theme for CM10/CM10.1/AOKP-ANDROID 4.2
 
-Version 1.0.7.8
+Version 1.0.8.1
 
 Esa Laukkanen <ele.linux@gmail.com>
